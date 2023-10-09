@@ -103,51 +103,44 @@ span {
     display: none;
     position: absolute;
     color: white;
+    transform: translate(-50%, -50%);
+    padding-left: 26%;
 }
 
 .one {
-    padding-top: 15%;
-    padding-left: 9%;
+    padding-top: 30%;
 }
 
 .two {
-    padding-top: 50%;
-    padding-left: 8%;
+    padding-top: 100%;
 }
 
 .three {
-    padding-top: 87%;
-    padding-left: 8%;
+    padding-top: 175%;
 }
 
 .four {
-    padding-top: 18%;
-    padding-left: 8%;
+    padding-top: 37%;
 }
 
 .five {
-    padding-top: 58%;
-    padding-left: 9%;
+    padding-top: 117%;
 }
 
 .six {
-    padding-top: 98%;
-    padding-left: 8%;
+    padding-top: 198%;
 }
 
 .seven {
-    padding-top: 8%;
-    padding-left: 8%;
+    padding-top: 17%;
 }
 
 .eight {
-    padding-top: 36%;
-    padding-left: 8%;
+    padding-top: 72%;
 }
 
 .nine {
-    padding-top: 76%;
-    padding-left: 9%;
+    padding-top: 152%;
 }
 
 span:hover {

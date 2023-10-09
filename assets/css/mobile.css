@@ -6,6 +6,8 @@
         color: black;
         position: relative;
         text-align: left;
+        transform: translate(0,0);
+
     }
 
     .one, .two, .three, .four, .five, .six, .seven, .eight, .nine {
