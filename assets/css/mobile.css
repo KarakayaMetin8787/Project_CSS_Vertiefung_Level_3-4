@@ -2,8 +2,16 @@
 @media screen and (max-width: 375px){
     
     span {
-        display: block;
+        display: inline-block;
+        color: black;
+        position: relative;
+        text-align: left;
     }
+
+    .one, .two, .three, .four, .five, .six, .seven, .eight, .nine {
+        padding: 0;
+    }
+    
     header {
         margin: 0 5%;
     }
@@ -19,4 +27,5 @@
     footer {
         padding-inline: 5%;
     }
+
 }
